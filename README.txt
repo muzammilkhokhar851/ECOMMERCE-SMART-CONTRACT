@@ -1,5 +1,10 @@
-REMIX DEFAULT WORKSPACE
 
+It is basic smart contract for an ecommerce web store.
+
+
+REMIX IDE IS USED TO COMPILE AND DEPLOY THE CONTRACT NAMED AS "ecommerce.sol"
+
+REMIX DEFAULT WORKSPACE:
 Remix default workspace is present when:
 i. Remix loads for the very first time 
 ii. A new workspace is created with 'Default' template
